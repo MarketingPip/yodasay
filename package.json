@@ -39,9 +39,6 @@
   "main": "./index",
   "name": "yodasay",
   "preferGlobal": true,
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/scotttesler/yodasay.git"
